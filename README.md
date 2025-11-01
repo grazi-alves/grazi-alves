@@ -1,29 +1,23 @@
 # 👩🏽‍💻 Graziele Alves
-Desenvolvedora e entusiasta de **Robótica** e **Cibersegurança**.
+Estudante de Engenharia de Software na Universidade de Brasília (UnB)
+Desenvolvedora e entusiasta de Robótica.
 
-🔹 Praticando algoritmos e resolvendo desafios no LeetCode e HackerRank para aprimorar habilidades em **desenvolvimento de software.**
-
-🔹 Desenvolvendo projetos com **Arduino**, integrando com **Python** para controle de **hardware** e **dispositivos inteligentes**.
-
-🔹 Estudando os fundamentos de **pentest**, com foco em **testes de vulnerabilidade**, **reconhecimento** e **exploits básicos**.
-
-🔹 Aprendendo **montagem e manutenção de computadores**, desenvolvendo habilidades práticas em **hardware**, **diagnóstico** e **configuração de sistemas**.
-
-🚀 Buscando crescer como profissional e contribuir com projetos que unam **tecnologia**, **segurança** e **criatividade**. 
 
 ##
  <div style="display: inline_block"><br>
  
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Grazi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+   <img align="center" alt="Grazi-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+   <img align="center" alt="Grazi-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+   <img align="center" alt="Grazi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
    
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-          
+   <img align="center" alt="Grazi-js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                  
+         
+           
           
           
           
