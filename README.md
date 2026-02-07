@@ -21,7 +21,8 @@ Software Engineering student at the University of Brasília (UnB) with a focus o
 
    <img align="center" alt="Grazi-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-   <img align="center" alt="Grazi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+   <img align="center" alt="Grazi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+          
           
 
   
