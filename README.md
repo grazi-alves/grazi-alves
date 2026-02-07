@@ -1,7 +1,10 @@
 # 👩🏽‍💻 Graziele Alves
-Estudante de Engenharia de Software na Universidade de Brasília (UnB)
-Desenvolvedora e entusiasta de Robótica.
 
+(PT-BR)
+Estudante de Engenharia de Software na Universidade de Brasília (UnB), com foco em backend, infraestrutura e cloud.
+
+(EN)
+Software Engineering student at the University of Brasília (UnB) with a focus on backend development, infrastructure, and cloud computing.
 
 ##
  <div style="display: inline_block"><br>
